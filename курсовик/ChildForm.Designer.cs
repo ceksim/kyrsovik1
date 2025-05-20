@@ -157,7 +157,7 @@
             this.boldButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.boldButton.Name = "boldButton";
             this.boldButton.Size = new System.Drawing.Size(23, 22);
-            this.boldButton.Text = "toolStripButton1";
+            this.boldButton.Text = "полужирный";
             this.boldButton.Click += new System.EventHandler(this.boldButton_Click);
             // 
             // italicButton
@@ -167,7 +167,7 @@
             this.italicButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.italicButton.Name = "italicButton";
             this.italicButton.Size = new System.Drawing.Size(23, 22);
-            this.italicButton.Text = "toolStripButton2";
+            this.italicButton.Text = "курсив";
             this.italicButton.Click += new System.EventHandler(this.italicButton_Click);
             // 
             // underlineButton
@@ -177,7 +177,7 @@
             this.underlineButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.underlineButton.Name = "underlineButton";
             this.underlineButton.Size = new System.Drawing.Size(23, 22);
-            this.underlineButton.Text = "toolStripButton3";
+            this.underlineButton.Text = "подчеркнутый";
             this.underlineButton.Click += new System.EventHandler(this.underlineButton_Click);
             // 
             // strikeoutButton
@@ -187,7 +187,7 @@
             this.strikeoutButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.strikeoutButton.Name = "strikeoutButton";
             this.strikeoutButton.Size = new System.Drawing.Size(23, 22);
-            this.strikeoutButton.Text = "toolStripButton4";
+            this.strikeoutButton.Text = "зачеркнутый";
             this.strikeoutButton.Click += new System.EventHandler(this.strikeoutButton_Click);
             // 
             // ChildForm
